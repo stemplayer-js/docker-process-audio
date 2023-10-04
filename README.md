@@ -1,6 +1,6 @@
 # docker-segment-audio
 
-Generate segments of mp3's from source wav files for use with the our [stem player](https://stemplayer-js.com).
+Generate segments of mp3's from source wav files for use with the our [Stem Player](https://github.com/stemplayer-js/stemplayer-js).
 
 ## Usage
 
